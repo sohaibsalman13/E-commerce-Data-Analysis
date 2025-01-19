@@ -5,7 +5,7 @@ This project focuses on analyzing e-commerce raw data at the order level and per
 
 The key objectives are:
 
-1. Data Import and Calculation: Import raw Shopify data into Google BigQuery and calculate daily revenue per SKU for a specific period.
+1. Data Import and Calculation: Import raw data into Google BigQuery and calculate daily revenue per SKU for a specific period.
 2. Revenue Target Comparison: Define target revenues for each SKU and compare these targets against actual revenues.
 3. Visualization: Create a visual dashboard using Looker Studio to track actual revenues versus targets, as well as highlight underperforming SKUs.
 
