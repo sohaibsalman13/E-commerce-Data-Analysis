@@ -11,4 +11,6 @@ The key objectives are:
 
 
    
-<img width="971" alt="Dashboard" src="https://github.com/sohaibsalman13/PowerBI-dashboard-with-SQL/assets/86664458/35336569-0cf9-474b-b210-10a02f507d90">
+
+![Screenshot 2025-01-19 at 11 19 41 PM](https://github.com/user-attachments/assets/980d87d4-6ab3-4c31-87a2-e476b897ceeb)
+![Screenshot 2025-01-19 at 11 27 05 PM](https://github.com/user-attachments/assets/6cd79948-6034-404a-a4d6-e488d632ea36)
